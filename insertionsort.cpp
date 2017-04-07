@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main()
-{
+{dfghd
 	int size=10;
 	int no=0;
 	int data[size];
